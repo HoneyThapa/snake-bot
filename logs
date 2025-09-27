@@ -1,2 +1,11 @@
 <Previous works>Honey&SHreyash:CAD,Shreyash:Simulation,Whole team:BOM
 <3/9/25>Hardik,Priyanshi<shreyash on testing motor driver did not work would try again.Divya worked in robo dog,honey was busy in convo prep,raihan did dpiit
+<21/9/25>Hardware Assembly Complete
+<24/9/25>Electronic assembly done but motor driver not tested
+<25/9/25> We tried testing the servo motor driver, it worked for 2s then the wire connecting motor driver with power supply burnt, we again tried testing with just one servo motor worked for a few sec but then again the connceting wire burnt,
+we checked the circuit but this same problem happended 2-3 times, we then rewired the circuit then the motor driver was not wokring then we again tried testing a few times and at last it worked for a sec.
+<26/9/25> We tested the motor driver but it wasn't working, we checked the circuit and rewired it multiple time but it didn't worked out, 
+we checked using multimeter, the power supply was working fine the gnd and vcc pin were giving appropriate value but the PWM signal was not giving appropriate value.
+We had ordered this servo motor driver PCA9685 from Amazon,in the original documentation of PCA9685 from Adafruit it said it can control 16 servo motors at once. So, the possible reason can be it is a cheaper version of the product,
+the specification of the driver was not given on Amazon.
+<27/9/25> We are trying to find alternatives for this we will finalise the plan for this tomorrow.
